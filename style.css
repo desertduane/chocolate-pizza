@@ -4,13 +4,14 @@
   bottom: 60px;
 }
 .delicious{
+  font-family: 'yellowtail';
   margin-left: 10px;
   margin-top: 10px;
   position: relative;
   bottom: 17px;
   display: inline;
-  font-family: cursive;
   font-weight: bold;
+  font-size: 30px;
 }
 .bestblog{
   margin-left: 10px;
@@ -24,6 +25,7 @@
   margin-left: 150px;
   margin-right: 150px;
   margin-top: 50px;
+
 }
 hr{
   background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
@@ -75,4 +77,10 @@ li{
   color: white;
   background-color: #cc5b3b;
   border: none;
+}
+footer{
+  font-size: 10px;
+  text-align: center;
+  position: relative;
+  bottom: 30px;
 }
