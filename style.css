@@ -27,6 +27,23 @@
   margin-top: 50px;
 
 }
+h1{
+  font-family: 'Teko', sans-serif;
+  font-size: 60px;
+}
+#date{
+  position: relative;
+  bottom: 60px;
+  font-size: 12px;
+  color: silver;
+
+}
+#print{
+  position: relative;
+  top: 200px;
+  left: 800px;
+  color: silver;
+}
 hr{
   background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
   width: 980px;
@@ -45,6 +62,10 @@ hr{
 }
 li{
   font-size: 18px
+
+}
+.crossoff{
+  text-decoration: line-through;
 }
 .list2{
   position: relative;
@@ -78,9 +99,17 @@ li{
   background-color: #cc5b3b;
   border: none;
 }
+#bottomlogo{
+  position: relative;
+  left: 300px;
+  bottom: 30px;
+}
 footer{
   font-size: 10px;
-  text-align: center;
   position: relative;
+  text-align: center;
+  left: 500px;
   bottom: 30px;
+  color: silver;
+  width: 175px;
 }
